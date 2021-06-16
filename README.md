@@ -1,16 +1,19 @@
-# tip_calculator
 
-A new Flutter application.
+# Tip Calculator
 
-## Getting Started
+A simple tip calculator app that calculates the total amount (including the tip) to be paid by each person.
 
-This project is a starting point for a Flutter application.
+Download APK [here.](https://drive.google.com/file/d/1x2QW3xW7lMVxQWyVMNPB-zBLSXizhyxJ/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![s1.png](https://i.postimg.cc/8cYRrb1f/s1.png)](https://postimg.cc/wRhyCLR9) [![s2.png](https://i.postimg.cc/44vMD7Wv/s2.png)](https://postimg.cc/14tJ6th4)
+
+
+  
+## What I learned?
+
+- Taking User-Input
+- Implementation of SeekBar
+- Gained basic knowledge about flutter widgets
